@@ -8,9 +8,9 @@ Welcome to my personal developer portfolio — a sleek, interactive, and dynamic
 
 ## 🧑‍💻 About Me
 
-**Name:** Soumyajit Basak  
-**Title:** Jr. Software Developer  
-**Location:** Bengaluru, India  
+**Name:** Nekitha M  
+**Title:** Frontend Developer  
+**Location:** Erode, India  
 
 Passionate Engineering Graduate, self-starter, quick learner, and adapt at using technical skills for organizational improvement.
 
